@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=94
+
+this is a syntax file for coloring the data structure description language EXPRESS as defined in the STEP (Standard for the Exchgange of Product Model) standard formarly
+ISO-10303.  Express is describe in the part 11 of this standard
